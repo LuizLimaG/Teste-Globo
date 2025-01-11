@@ -1,0 +1,16 @@
+{
+    "faturamento": {
+        "janeiro": 145678.90,
+        "fevereiro": 178965.43,
+        "marco": 156789.21,
+        "abril": 167890.32,
+        "maio": 189632.54,
+        "junho": 134567.87,
+        "julho": 123456.78,
+        "agosto": 198765.43,
+        "setembro": 167890.54,
+        "outubro": 187654.32,
+        "novembro": 156789.98,
+        "dezembro": 201234.56
+    }
+}
